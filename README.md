@@ -19,3 +19,7 @@ Need to debug the code for ligh, so that the graph is being displayed
 ssh -L8000:Localhost:8888 myshake@10.70.12.119
 run jupyter notebook on the shake 
 then in the browser http://localhost:8000/tree/shake-UDP-live
+
+# Graph generation github code:
+https://github.com/iannesbitt/shake-UDP-live
+
